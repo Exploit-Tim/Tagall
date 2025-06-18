@@ -7,9 +7,9 @@ import asyncio
 import time
 
 # Konfigurasi API
-API_ID = 20600399
-API_HASH = "982e2c08d2f731d0424271c2f88525ca"
-BOT_TOKEN = "7869449304:AAFzNBalYADEvX3FeoLCXP70umMA6k9XAwU"
+API_ID = 26544005
+API_HASH = "66f6221e5ce9109827b50eaf3d105025"
+BOT_TOKEN = "8198470125:AAHkG1YMWihBZ5dgQzwMt7-EE09jd8ckS7w"
 
 # Inisialisasi bot
 client = TelegramClient("bot", API_ID, API_HASH).start(bot_token=BOT_TOKEN)
