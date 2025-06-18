@@ -99,7 +99,7 @@ async def get_user_id(event, identifier):
 @client.on(events.NewMessage(pattern=r"^/start"))
 async def start(event):
     buttons = [[Button.inline("ᴅᴀғᴛᴀʀ ᴘᴇʀɪɴᴛᴀʜ", b"help")]]
-    await event.reply(f"""<blockquote><b>🤖 sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ ғʀᴇᴇsᴇx ɢᴜᴀʀᴅɪᴀɴ ʙᴏᴛ</b></blockquote> 
+    await event.reply(f"""<blockquote><b>🤖 sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ ᴅɪ ᴅᴏᴍɪɴɪᴄ ɢᴜᴀʀᴅɪᴀɴ ʙᴏᴛ</b></blockquote> 
 <blockquote>sᴀʏᴀ ᴀᴅᴀʟᴀʜ sᴇʙᴜᴀʜ ʙᴏᴛ ᴀsɪsᴛᴇɴ ɢʀᴜᴘ ʏᴀɴɢ ʙɪsᴀ ᴍᴇɴᴊᴀɢᴀ ɢʀᴜᴘ ᴀɴᴅᴀ ᴛᴇᴛᴀᴘ ʙᴇʀsɪʜ</blockquote>
 
 <blockquote>sɪʟᴀᴋᴀɴ ᴛᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴀɴᴅᴀ sᴇʙᴀɢᴀɪ ᴀᴅᴍɪɴ</blockquote>
